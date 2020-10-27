@@ -1,0 +1,56 @@
+/*
+CSS Selectors:
+-tags
+-class
+-id
+-pseudo classes
+
+*/
+
+i {
+  color:cyan;
+  font-weight:1000;
+}
+
+* {
+  color: orange;
+}
+
+b {
+  font-size: 4rem;
+  color: red;
+
+}
+.hi {
+  color: blue;
+}
+
+p {
+  border:1px dashed teal;
+}
+
+.heading{
+  text-shadow: 5px 5px 5px purple;
+}
+
+body {
+  font-family: 'Sansita Swashed', cursive;
+
+}
+ol {
+  background-color:white;
+
+}
+
+.div1 {
+  background-color: cyan;
+  color: white;
+
+}
+
+.div2 {
+  background-color:green;
+  color:yellow;
+  paddling:5px;
+  margin:10px;
+}
